@@ -8,10 +8,10 @@ return [
 
         'firebird' => [
             'driver'   => 'firebird',
-            'host'     => 'viaconect.dyndns.org',
-            'database' => '/home/SYS/TCCOM/Dados/TCCOM.FDB',
-            'username' => 'SYSDBA',
-            'password' => 'masterkey',
+            'host'     => '',
+            'database' => '',
+            'username' => '',
+            'password' => '',
             'charset' => 'utf8',
             'collation' => 'PT_BR',
             'port'     => 3050,
