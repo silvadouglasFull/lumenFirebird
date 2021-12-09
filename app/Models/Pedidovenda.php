@@ -44,6 +44,7 @@ use Illuminate\Database\Eloquent\Model;
  *
  * @package App\Models
  */
+#example model table
 class Pedidovenda extends Model
 {
 	protected $table = 'PEDIDOVENDA';
